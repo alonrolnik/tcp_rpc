@@ -1,4 +1,4 @@
 tcp_rpc
 =======
 
-tcp rpc server
+tcp rpc server using OTP
